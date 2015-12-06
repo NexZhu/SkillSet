@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "webpack.config.js"
+  ],
+  "presets": ["es2015"]
+}
