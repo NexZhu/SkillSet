@@ -1,6 +1,8 @@
 # SkillSet
 A simple JSON format for skill sets and a mind map generator
 
+[Demo](http://nexzhu.github.io/SkillSet/)
+
 ## Background
 
 Initially created to help me choose technology stacks for 2015 Eleme Hackathon according to the skill sets of my teammates and me.
@@ -24,6 +26,8 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
     {
       "name": "Nex Zhu",
       "skillset": {
+        "Assembly Language": 2,
+        "C#": 1,
         "C++": 2,
         "Dart": 1,
         "Data Store": {
@@ -50,6 +54,7 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
           },
           "HTML": 3,
           "Polymer": 1,
+          "React": 1,
           "Underscore/Lo-Dash": 3,
           "jQuery": 3,
           "webpack": 2
@@ -64,6 +69,7 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
           ".level": 3,
           "CoffeeScript": 1,
           "ES6": 3,
+          "Meteor": 2,
           "TypeScript": 3
         },
         "Lua": 1,
@@ -85,7 +91,9 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
           "Shell": 1,
           "Vagrant": 1
         },
-        "Python": 1
+        "Pascal": 2,
+        "Python": 1,
+        "Visual Basic": 1
       }
     }
 
