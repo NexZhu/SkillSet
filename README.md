@@ -1,4 +1,6 @@
 # SkillSet
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NexZhu/SkillSet.svg)](https://greenkeeper.io/)
 A simple JSON format for skill sets and a mind map generator
 
 [Demo](http://nexzhu.github.io/SkillSet/)
