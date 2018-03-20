@@ -5,16 +5,15 @@
   "main": "",
   "dependencies": {
     "kity": "github:fex-team/kity#v2.0.5",
-    "kityminder": "github:fex-team/kityminder-core#v1.4.31"
+    "kityminder-core": "^1.4.46"
   },
   "devDependencies": {
-    "babel-core": "^6.3.13",
-    "babel-loader": "^6.2.0",
-    "babel-preset-es2015": "^6.3.13",
-    "webpack": "^1.12.9"
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
