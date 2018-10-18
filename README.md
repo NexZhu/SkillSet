@@ -1,4 +1,4 @@
-# SkillSet
+# SkillSet 
 A simple JSON format for skill sets and a mind map generator
 
 [Demo](http://nexzhu.github.io/SkillSet/)
@@ -20,8 +20,7 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
     5: Master
 
 ## Example
-
-### JSON
+### JSON Format Data
 
 ```json
 {
@@ -115,6 +114,6 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
 }
 ```
 
-### Generated Mind Map
+### Generated Mind Map Image
 
 ![skill-set.png](docs/skill-set.png)
