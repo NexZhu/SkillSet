@@ -28,6 +28,10 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
   "name": "Nex Zhu",
   "skillset": {
     "Assembly Language": 2,
+    "DLT": {
+      ".level": 2,
+      "Blockchain": 2
+    },
     "C#": 1,
     "C/C++": 2,
     "Dart": 1,
@@ -39,7 +43,7 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
         "Redis": 3
       },
       "RDBMS": {
-        "MySQL": 2,
+        "MySQL/MariaDB": 2,
         "PostgreSQL": 2,
         "SQL": 2
       }
@@ -77,7 +81,10 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
       "CoffeeScript": 1,
       "TypeScript": 2
     },
-    "Kotlin": 2,
+    "Kotlin": {
+      ".level": 2,
+      "Ktor": 2
+    },
     "Lua": 1,
     "Machine Learning": {
       ".level": 2,
@@ -102,11 +109,16 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
     },
     "Objec-Oriented Programming": 3,
     "Operation": {
-      "Docker": 2,
+      "Docker": {
+        ".level": 2,
+        "Docker Compose": 2
+      },
       "Linux": 2,
+      "Salt": 1,
       "Shell script": 1,
       "Vagrant": 1
     },
+    "P2P network": 1,
     "Pascal": 2,
     "PHP": 1,
     "Python": 2,
