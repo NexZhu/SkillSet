@@ -8,8 +8,8 @@
     "kityminder-core": "^1.4.46"
   },
   "devDependencies": {
-    "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.12"
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.3.9"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
