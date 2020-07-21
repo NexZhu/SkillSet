@@ -5,7 +5,7 @@
   "main": "",
   "dependencies": {
     "kity": "github:fex-team/kity#v2.0.5",
-    "kityminder-core": "^1.4.46"
+    "kityminder-core": "^1.4.50"
   },
   "devDependencies": {
     "webpack": "^4.20.2",

@@ -30,7 +30,9 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
     "Assembly Language": 2,
     "DLT": {
       ".level": 2,
-      "Blockchain": 2
+      "Blockchain": 2,
+      "Consensus Mechanism": 2,
+      "Smart Contract": 2
     },
     "C#": 1,
     "C/C++": 2,
@@ -38,6 +40,7 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
     "Data Mining": 2,
     "Data Store": {
       "NoSQL": {
+        "LevelDB": 1,
         "MongoDB": 2,
         "Neo4j": 1,
         "Redis": 3
@@ -63,11 +66,12 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
       "React": 2,
       "Redux": 2,
       "Underscore/Lo-Dash": 3,
+      "Vue": 2,
       "jQuery": 3,
       "webpack": 2
     },
     "Functional Programming": 2,
-    "Go": 2,
+    "Go": 3,
     "Java": {
       ".level": 3,
       "Dropwizard": 3,
@@ -79,7 +83,7 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
     "JavaScript": {
       ".level": 3,
       "CoffeeScript": 1,
-      "TypeScript": 2
+      "TypeScript": 3
     },
     "Kotlin": {
       ".level": 2,
@@ -100,7 +104,9 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
     "Node.js": {
       ".level": 3,
       "Connect": 3,
+      "Curveball": 3,
       "Express": 3,
+      "FoalTS": 3,
       "hapi": 2,
       "Meteor": 2,
       "Micro": 3,
@@ -113,12 +119,16 @@ SkillSet uses [Baidu FEX team](http://fex.baidu.com/)'s [Kity](https://github.co
         ".level": 2,
         "Docker Compose": 2
       },
+      "Kubernetes": {
+        ".level": 1,
+        "Helm": 1
+      },
       "Linux": 2,
       "Salt": 1,
       "Shell script": 1,
       "Vagrant": 1
     },
-    "P2P network": 1,
+    "P2P network": 2,
     "Pascal": 2,
     "PHP": 1,
     "Python": 2,
